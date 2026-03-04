@@ -1,0 +1,6 @@
+ALLOW_ORIGIN: "http://localhost:3000,http://localhost:5173"
+GCS_BUCKET: "your-gcs-bucket-name"
+GEMINI_API_KEY: "your-gemini-api-key"
+GOOGLE_GENAI_API_KEY: "your-google-genai-api-key"
+PROJECT_ID: "your-project-id"
+LINE_CHANNEL_ACCESS_TOKEN: "your-line-channel-access-token"

@@ -1,0 +1,529 @@
+{
+  "6MDnxzCmoyTg2FGAOgn0": [
+    {
+      "id": "0h3ggTSzlB3kaIVk3NT0",
+      "patientId": "0h3ggTSzlB3kaIVk3NT0",
+      "stayId": "jfOkISxtxPrqwHMNmhzk",
+      "state": "UNASSIGNED",
+      "lane": "UNASSIGNED",
+      "roomId": null,
+      "updatedAt": "2026-01-29T03:26:58.850Z"
+    },
+    {
+      "id": "0xq3nfV6uJ1gbqF3avvW",
+      "patientId": "0xq3nfV6uJ1gbqF3avvW",
+      "stayId": "51x6J6d1IKWpZ8dzbegB",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "yilPi5SfgsJvj5sYncg3",
+      "updatedAt": "2026-02-03T09:16:03.670Z"
+    },
+    {
+      "id": "11GzMPmXT4cL26ItuDEc",
+      "patientId": "11GzMPmXT4cL26ItuDEc",
+      "stayId": "kBKG00YzTyMyHYEXnZ3h",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "LgcOc9xm0GmePLZHwcQ3",
+      "updatedAt": "2026-02-03T09:00:59.832Z"
+    },
+    {
+      "id": "5DWGzeCJ4TnlYm3kgEXo",
+      "patientId": "5DWGzeCJ4TnlYm3kgEXo",
+      "stayId": "1o7Cnj9BQJHCqXzPLsjw",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "bWKnycrdCJANl44VCmoS",
+      "updatedAt": "2026-02-03T09:17:36.376Z"
+    },
+    {
+      "id": "5fQzCt8FjwJZSZKq3pjL",
+      "patientId": "5fQzCt8FjwJZSZKq3pjL",
+      "stayId": "NdkXg7ASZSQUZNnl6RZV",
+      "state": "UNASSIGNED",
+      "lane": "UNASSIGNED",
+      "roomId": null,
+      "updatedAt": "2026-02-10T15:51:13.971Z"
+    },
+    {
+      "id": "6rwfylUWl5IIgtZjjonf",
+      "patientId": "6rwfylUWl5IIgtZjjonf",
+      "stayId": "2G4QrSQWaF8swrGwAiEk",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "x9IWiiyXKz97t6Nr3JgA",
+      "updatedAt": "2026-02-03T09:00:33.307Z"
+    },
+    {
+      "id": "9K4dRjeVb2LiLZ27oOlk",
+      "patientId": "9K4dRjeVb2LiLZ27oOlk",
+      "stayId": "EJvQ91E1lf2PRr0GkZjV",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "XmovPem0WSun36aEGujX",
+      "updatedAt": "2026-02-03T09:17:23.788Z"
+    },
+    {
+      "id": "9NLHZAsLJkWe0SWEwpdb",
+      "patientId": "9NLHZAsLJkWe0SWEwpdb",
+      "stayId": "n5N6gcYNumTTljacYKJ7",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "WVRplkYzxkm8wN0NvI61",
+      "updatedAt": "2026-02-03T09:00:44.405Z"
+    },
+    {
+      "id": "EL8OIcrU77I7AGODxc4i",
+      "patientId": "EL8OIcrU77I7AGODxc4i",
+      "stayId": "2dn5BE7JpX6yrDrGsi12",
+      "state": "AWAY_HOSPITAL",
+      "lane": "AWAY_HOSPITAL",
+      "roomId": null,
+      "updatedAt": "2026-02-03T08:04:34.296Z"
+    },
+    {
+      "id": "EdRbQxr6LGQ8NVfNBJUF",
+      "patientId": "EdRbQxr6LGQ8NVfNBJUF",
+      "stayId": "hJzPGdgJ105w9SCQO6r7",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "oesmsWyi0PNvNF1POTRd",
+      "updatedAt": "2026-02-03T08:48:35.872Z"
+    },
+    {
+      "id": "FYYTztkgUweuYGUketUo",
+      "patientId": "FYYTztkgUweuYGUketUo",
+      "stayId": "AiqlMUd2dJbP5pmcS9Bv",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "JKVUA2c586ZB9alVUBai",
+      "updatedAt": "2026-02-03T09:17:32.533Z"
+    },
+    {
+      "id": "HboZgGXKWPoa2AM6a25Y",
+      "patientId": "HboZgGXKWPoa2AM6a25Y",
+      "stayId": "5pfGizaksBUodnC9Y17s",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "r2dzskPzuA9eSlebcVD5",
+      "updatedAt": "2026-02-03T09:16:28.844Z"
+    },
+    {
+      "id": "HgRUiqILRmn2i3hOBeyY",
+      "patientId": "HgRUiqILRmn2i3hOBeyY",
+      "stayId": "kCmbQhrYx8CLXUpcasSE",
+      "state": "AWAY_HOSPITAL",
+      "lane": "AWAY_HOSPITAL",
+      "roomId": null,
+      "updatedAt": "2026-02-03T09:01:18.132Z"
+    },
+    {
+      "id": "NeRSCy1EyqGvENx5eN3H",
+      "patientId": "NeRSCy1EyqGvENx5eN3H",
+      "stayId": "S3nX5faaaXPpwhZNp1AL",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "6Jm9dgox3vfCpkHfLCMi",
+      "updatedAt": "2026-02-03T09:00:23.607Z"
+    },
+    {
+      "id": "OdTIn7BdIhJG7lCexZhV",
+      "patientId": "OdTIn7BdIhJG7lCexZhV",
+      "stayId": "HWodxpYynajpbsk5KyaQ",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "5DWXBb7tZStkb9TjbImO",
+      "updatedAt": "2026-02-03T09:00:53.679Z"
+    },
+    {
+      "id": "RBoAKCeIbMRUcqRnzv7F",
+      "patientId": "RBoAKCeIbMRUcqRnzv7F",
+      "stayId": "TFudLop0yOpdq6Ald2Wx",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "zlmFlsPLtDRB7dONYMXi",
+      "updatedAt": "2026-02-03T08:20:19.120Z"
+    },
+    {
+      "id": "RaW9GLwznIhddXeUSr5w",
+      "patientId": "RaW9GLwznIhddXeUSr5w",
+      "stayId": "uvVs711vVNEfdZyvOTEW",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "VAJnJpzy2Vp3dQZvPxXI",
+      "updatedAt": "2026-02-03T09:00:39.215Z"
+    },
+    {
+      "id": "S1sborsRtZqc0zLnZVjt",
+      "patientId": "S1sborsRtZqc0zLnZVjt",
+      "stayId": "50noR4P9cN6UsnR8i4SH",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "3oklBnA2QlKJcIWC0aoj",
+      "updatedAt": "2026-02-03T09:16:14.577Z"
+    },
+    {
+      "id": "SSITiPWbDiTOuDDPpPWe",
+      "patientId": "SSITiPWbDiTOuDDPpPWe",
+      "stayId": "kMnffLh2PSNCXwtojn5A",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "0B8CvC54GisRRxMHJWEu",
+      "updatedAt": "2026-02-03T09:01:07.848Z"
+    },
+    {
+      "id": "UanfaCwCz7CkOSKhcEP8",
+      "patientId": "UanfaCwCz7CkOSKhcEP8",
+      "stayId": "XkcIjNH2Irkz7Vc1jAsu",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "JGNKHhMaIMuDLGbfJwrx",
+      "updatedAt": "2026-02-03T09:00:18.839Z"
+    },
+    {
+      "id": "X1o4V1YlQ54C16Nv19v2",
+      "patientId": "X1o4V1YlQ54C16Nv19v2",
+      "stayId": "ajKDP350klj5R2npo2ek",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "3WjkQushlZ1NwzwmEQoW",
+      "updatedAt": "2026-02-03T09:19:49.650Z"
+    },
+    {
+      "id": "XkjiMOEZLmHpzoxTfMDe",
+      "patientId": "XkjiMOEZLmHpzoxTfMDe",
+      "stayId": "4Vb2gDPnVG9U57u1HAwK",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "rpmKdrDKgyCCAnAlk3Pn",
+      "updatedAt": "2026-02-03T08:32:10.274Z"
+    },
+    {
+      "id": "YGH1KPRSLMZvYSXJ3O4z",
+      "patientId": "YGH1KPRSLMZvYSXJ3O4z",
+      "stayId": "rVr2rq8E8i6nfNxirZ3S",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "sgjxadd9Xl69cLY0HyL5",
+      "updatedAt": "2026-02-03T08:48:41.936Z"
+    },
+    {
+      "id": "Yf3nGFbLTNfPjM7UDXHU",
+      "patientId": "Yf3nGFbLTNfPjM7UDXHU",
+      "stayId": "e2sL8xYg7Hr3YJFJtRs0",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "uLUxxCNe5qTuAdyzVep9",
+      "updatedAt": "2026-02-03T09:00:13.068Z"
+    },
+    {
+      "id": "ZJjjFTgz9pkpUuCKBuWI",
+      "patientId": "ZJjjFTgz9pkpUuCKBuWI",
+      "stayId": "6eFgxKR1sTkBhtGliaSk",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "upv5YQosTieCIoPtuO2g",
+      "updatedAt": "2026-02-03T08:50:03.700Z"
+    },
+    {
+      "id": "aJZ8r4o0dnkws5xqvmcL",
+      "patientId": "aJZ8r4o0dnkws5xqvmcL",
+      "stayId": "R0s5vX0JaU5pDZgGDcLB",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "G3V2bVZKcSd6dkUsAstT",
+      "updatedAt": "2026-02-03T09:16:33.056Z"
+    },
+    {
+      "id": "bTlRlyXuVrm1juovGSlq",
+      "patientId": "bTlRlyXuVrm1juovGSlq",
+      "stayId": "DrlRs7rQZcSMt0Qs9n4J",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "rCiKLfm2hwuVvS6GzC97",
+      "updatedAt": "2026-02-03T09:00:28.396Z"
+    },
+    {
+      "id": "dGg9Y3ruBEYPqQxHnyZ5",
+      "patientId": "dGg9Y3ruBEYPqQxHnyZ5",
+      "stayId": "yaYViob1HctapqxZvy5k",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "Q2zK8tcLjUK3676I2RqK",
+      "updatedAt": "2026-02-03T09:16:37.928Z"
+    },
+    {
+      "id": "e6yL6ZQmkzeYCKv3O8sL",
+      "patientId": "e6yL6ZQmkzeYCKv3O8sL",
+      "stayId": "OfEDuOp1nTZ5f4kEtzPb",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "ZGn1dyH93vMXNl4p51Vu",
+      "updatedAt": "2026-02-03T08:49:52.634Z"
+    },
+    {
+      "id": "f9wEUuHGAnEvflwg0ojf",
+      "patientId": "f9wEUuHGAnEvflwg0ojf",
+      "stayId": "OVW2AkFETyWrNhv1cB3W",
+      "state": "AWAY_HOSPITAL",
+      "lane": "AWAY_HOSPITAL",
+      "roomId": null,
+      "updatedAt": "2026-02-03T08:50:24.494Z"
+    },
+    {
+      "id": "ltQzfhEOXtT9YZ4Xin2x",
+      "patientId": "ltQzfhEOXtT9YZ4Xin2x",
+      "stayId": "RvQJ5FJoKBjQ0VS1rvJM",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "qLiSrWUIscIxvwB5j9jB",
+      "updatedAt": "2026-02-03T09:16:00.321Z"
+    },
+    {
+      "id": "mw384AtZGkK6lkChOD6Q",
+      "patientId": "mw384AtZGkK6lkChOD6Q",
+      "stayId": "t0TNqZLSnMEdDwSiUDln",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "nUtHrSb3Jeiizlv56uhL",
+      "updatedAt": "2026-02-03T09:16:51.662Z"
+    },
+    {
+      "id": "pGDUlttIID4rF7uW18h7",
+      "patientId": "pGDUlttIID4rF7uW18h7",
+      "stayId": "n7C4kcUuvfwdfAKA1l7W",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "poIQOG4XLfE7MdHiKt6U",
+      "updatedAt": "2026-02-03T09:16:09.582Z"
+    },
+    {
+      "id": "pa9WsN5hrCPa8rJmrexl",
+      "patientId": "pa9WsN5hrCPa8rJmrexl",
+      "stayId": "0EywSelN1oXNYwNEFogo",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "509VU2kiEJMpOME6IpBG",
+      "updatedAt": "2026-02-03T08:48:47.160Z"
+    },
+    {
+      "id": "pu0Yl0qATTyWcZqOJeyo",
+      "patientId": "pu0Yl0qATTyWcZqOJeyo",
+      "stayId": "K2BOPGURYvyjC8z6Nccx",
+      "state": "AWAY_HOSPITAL",
+      "lane": "AWAY_HOSPITAL",
+      "roomId": null,
+      "updatedAt": "2026-02-03T09:17:58.150Z"
+    },
+    {
+      "id": "qAyTpl3QD7sEkdOTO4HB",
+      "patientId": "qAyTpl3QD7sEkdOTO4HB",
+      "stayId": "J9HLtiu8DddF0I0G2xAk",
+      "state": "AWAY_HOSPITAL",
+      "lane": "AWAY_HOSPITAL",
+      "roomId": null,
+      "updatedAt": "2026-02-03T09:17:50.611Z"
+    },
+    {
+      "id": "rz4V9zXsYCniWUOn0ofi",
+      "patientId": "rz4V9zXsYCniWUOn0ofi",
+      "stayId": "HwxBiI7vwMWb15ThGD7r",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "nUtHrSb3Jeiizlv56uhL",
+      "updatedAt": "2026-02-03T09:16:46.174Z"
+    },
+    {
+      "id": "tpH2DrsOvOAIuxs6I0KH",
+      "patientId": "tpH2DrsOvOAIuxs6I0KH",
+      "stayId": "q6B6x9Si9CKsGk5Tp9RQ",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "lzBuHJGwqhzhyzDr8FQ6",
+      "updatedAt": "2026-02-03T08:35:49.036Z"
+    },
+    {
+      "id": "vK0kDXnUiWmwnFiEutV5",
+      "patientId": "vK0kDXnUiWmwnFiEutV5",
+      "stayId": "NhnZ3XzTMniFxEBhdLWU",
+      "roomId": null,
+      "lane": "UNASSIGNED",
+      "state": "UNASSIGNED",
+      "updatedAt": "2026-01-18T23:55:37.778Z"
+    },
+    {
+      "id": "vfPDEMw35DR9rxcSaToK",
+      "patientId": "vfPDEMw35DR9rxcSaToK",
+      "stayId": "KQ9in70uRyFlY4UKXYoO",
+      "roomId": null,
+      "lane": "UNASSIGNED",
+      "state": "UNASSIGNED",
+      "updatedAt": "2026-02-03T08:28:39.425Z"
+    },
+    {
+      "id": "wPkhnnXZhMKwdiQ1nlfd",
+      "patientId": "wPkhnnXZhMKwdiQ1nlfd",
+      "stayId": "yHtHFfDGRDobqlUHjWNt",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "ZGn1dyH93vMXNl4p51Vu",
+      "updatedAt": "2026-02-03T08:48:53.722Z"
+    }
+  ],
+  "8HjrjwVSTsvcoUscxlwr": [
+    {
+      "id": "7qZLXgLuie4MclKo5vXy",
+      "patientId": "7qZLXgLuie4MclKo5vXy",
+      "stayId": "eo1Cg8nBWk154SPeuE1E",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "wdDnBg52rQIlDGFSfZzo",
+      "updatedAt": "2026-01-17T06:39:25.148Z"
+    },
+    {
+      "id": "aA6oCsozy5Xk7jCUX7YC",
+      "patientId": "aA6oCsozy5Xk7jCUX7YC",
+      "stayId": "YZDUI0c0K4nbH1OmVLmU",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "bgllTNJxLbHvt9PtCW5S",
+      "updatedAt": "2026-01-17T06:39:27.134Z"
+    },
+    {
+      "id": "kf48gKfeWKFanCbArPSc",
+      "patientId": "kf48gKfeWKFanCbArPSc",
+      "stayId": "noKmTcHQgME5b6J0wzPE",
+      "state": "UNASSIGNED",
+      "lane": "UNASSIGNED",
+      "roomId": null,
+      "updatedAt": "2026-01-17T06:39:21.789Z"
+    }
+  ],
+  "B4sG11GI7K8EKSy8nCJz": [
+    {
+      "id": "g6ASh4FSIe4zeNWcgwoA",
+      "patientId": "g6ASh4FSIe4zeNWcgwoA",
+      "stayId": "3x8fbhf2xfQz45MPaMat",
+      "roomId": null,
+      "lane": "UNASSIGNED",
+      "state": "UNASSIGNED",
+      "updatedAt": "2026-01-29T07:17:40.266Z"
+    }
+  ],
+  "DRAgEaBW2x8JerZBoX1I": [
+    {
+      "id": "0LJlgmG2MdK9krR7mJOP",
+      "patientId": "0LJlgmG2MdK9krR7mJOP",
+      "stayId": "LYvxqESTATM953RzY6J0",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "cfepXpNuxllx5q20FzjJ",
+      "updatedAt": "2026-01-18T12:46:18.049Z"
+    },
+    {
+      "id": "RWNqKsRmRiJGjPWWiq82",
+      "patientId": "RWNqKsRmRiJGjPWWiq82",
+      "stayId": "Qd1AwYOSvYPWO0kzSo33",
+      "roomId": null,
+      "lane": "UNASSIGNED",
+      "state": "UNASSIGNED",
+      "updatedAt": "2026-01-29T07:18:15.998Z"
+    },
+    {
+      "id": "Sv7pYmlbUmQkkaJhI9k6",
+      "patientId": "Sv7pYmlbUmQkkaJhI9k6",
+      "stayId": "cVhtFtDpjQDRNP4CI5Dn",
+      "roomId": null,
+      "lane": "UNASSIGNED",
+      "state": "UNASSIGNED",
+      "updatedAt": "2026-01-29T07:40:01.779Z"
+    },
+    {
+      "id": "o4fZzD4Bcq2JAyyUTKED",
+      "patientId": "o4fZzD4Bcq2JAyyUTKED",
+      "stayId": "WMtKT2NhvUct6p1j5vlc",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "c6JwHNt6Os0eERHGjPcC",
+      "updatedAt": "2026-01-18T12:16:20.670Z"
+    },
+    {
+      "id": "q1uQ2yvgtb10yVBtH45x",
+      "patientId": "q1uQ2yvgtb10yVBtH45x",
+      "stayId": "5YxYSKJCnN742nAwkkZF",
+      "state": "IN_ROOM",
+      "lane": "ROOM",
+      "roomId": "btOhBZenUDEf30xocPJ9",
+      "updatedAt": "2026-01-20T11:43:39.154Z"
+    }
+  ],
+  "NgVz2zViwF8n9y4u6K7e": [],
+  "XvAa4ZEvtZeoL6puQjSe": [
+    {
+      "id": "fHF4mPzq4eXwNQuqWHoj",
+      "patientId": "fHF4mPzq4eXwNQuqWHoj",
+      "stayId": "X5Ic01HygKMRQt1l3hlh",
+      "roomId": null,
+      "lane": "UNASSIGNED",
+      "state": "UNASSIGNED",
+      "updatedAt": "2026-01-18T11:46:30.201Z"
+    }
+  ],
+  "gqU9WpuSMUqOJLH1wuqk": [
+    {
+      "id": "1YtMFwSe4P6UuQRcz4eb",
+      "patientId": "1YtMFwSe4P6UuQRcz4eb",
+      "stayId": "Uz76XoWOm30ciGvSjCMD",
+      "roomId": null,
+      "lane": "UNASSIGNED",
+      "state": "UNASSIGNED",
+      "updatedAt": "2026-01-18T09:21:46.356Z"
+    },
+    {
+      "id": "3C8ErUi2Xr6FLtsKlvrG",
+      "patientId": "3C8ErUi2Xr6FLtsKlvrG",
+      "stayId": "nCkeS7jFMJNZJEkAEWct",
+      "roomId": null,
+      "lane": "UNASSIGNED",
+      "state": "UNASSIGNED",
+      "updatedAt": "2026-01-18T09:20:55.179Z"
+    },
+    {
+      "id": "8aOzOlkPqYkF7ELT7xTq",
+      "patientId": "8aOzOlkPqYkF7ELT7xTq",
+      "stayId": "JTeDMKxKyvaTpYBlg5hN",
+      "roomId": null,
+      "lane": "UNASSIGNED",
+      "state": "UNASSIGNED",
+      "updatedAt": "2026-01-18T09:21:20.060Z"
+    },
+    {
+      "id": "H8SnmImFkDwGjmmqghzv",
+      "patientId": "H8SnmImFkDwGjmmqghzv",
+      "stayId": "nObgAmWwdaUUpWsARxUK",
+      "roomId": null,
+      "lane": "UNASSIGNED",
+      "state": "UNASSIGNED",
+      "updatedAt": "2026-01-18T09:21:08.785Z"
+    },
+    {
+      "id": "QOaxPR4jqAIBSgOVQkaQ",
+      "patientId": "QOaxPR4jqAIBSgOVQkaQ",
+      "stayId": "EBJu2Kwyz2MpENtGjuDi",
+      "roomId": null,
+      "lane": "UNASSIGNED",
+      "state": "UNASSIGNED",
+      "updatedAt": "2026-01-18T09:21:37.541Z"
+    },
+    {
+      "id": "Ve9etRekD2OTwSShp2gf",
+      "patientId": "Ve9etRekD2OTwSShp2gf",
+      "stayId": "fPIdY4vc2gAvCHYHa25H",
+      "roomId": null,
+      "lane": "UNASSIGNED",
+      "state": "UNASSIGNED",
+      "updatedAt": "2026-01-18T09:21:29.363Z"
+    }
+  ],
+  "mcbEhOjD03DVPkRta6EC": []
+}
